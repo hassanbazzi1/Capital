@@ -1,0 +1,6 @@
+@Mini_Expense_Tracker_HostAddress = http://localhost:5022
+
+GET {{Mini_Expense_Tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
